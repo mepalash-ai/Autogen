@@ -1,0 +1,1 @@
+web: streamlit run debate_app.py --server.port=$PORT --server.headless=true
